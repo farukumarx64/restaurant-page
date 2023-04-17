@@ -1,0 +1,129 @@
+@import url("https://fonts.googleapis.com/css2?family=Spline+Sans:wght@400;500;600;700&display=swap");
+body {
+  font-family: "Spline Sans", sans-serif;
+  color: #777777;
+  line-height: 2.7;
+}
+body h1, body h2, body h3, body h4, body h5, body h6 {
+  font-weight: 600;
+  color: #222;
+}
+body a {
+  color: #222;
+  text-decoration: none;
+  transition: all 0.4s;
+  font-weight: 600;
+}
+body a:hover {
+  color: #f58d17;
+}
+body img {
+  width: 100%;
+}
+
+/* Btn */
+.btn {
+  border: 0;
+  padding: 14px 38px;
+}
+
+.btn-brand {
+  color: #fff;
+  font-weight: 500;
+  border-color: #f58d17;
+  background-color: #f58d17;
+}
+
+.btn-brand:hover {
+  border-color: #d37810;
+  background-color: #d37810;
+  color: white;
+}
+
+.bg-cover {
+  background-position: center !important;
+  background-size: cover !important;
+  background-repeat: no-repeat !important;
+}
+
+/* Slider */
+.slide-1 {
+  background: linear-gradient(rgba(0, 0, 0, 0.3764705882), rgba(0, 0, 0, 0.3764705882)), url(../../dist/images/cover1.jpg);
+}
+
+.slide-2 {
+  background: linear-gradient(rgba(0, 0, 0, 0.3764705882), rgba(0, 0, 0, 0.3764705882)), url(../../dist/images/cover2.jpg);
+}
+
+.slide-3 {
+  background: linear-gradient(rgba(0, 0, 0, 0.3764705882), rgba(0, 0, 0, 0.3764705882)), url(../../dist/images/cover3.jpg);
+}
+
+.carousel-control-prev, .carousel-control-next {
+  background-color: rgba(0, 0, 0, 0.6);
+  width: 40px;
+  height: 70px;
+  margin: auto;
+}
+
+#heroSlider h6::after, #heroSlider h6::before {
+  content: " ";
+  width: 40px;
+  height: 4px;
+  background-color: white;
+  display: inline-block;
+  margin: 10px;
+  vertical-align: middle;
+}
+
+.navbar-nav li {
+  margin: auto 50px;
+}
+
+section {
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+
+.shadow-on-hover {
+  transition: all 0.3s;
+}
+
+.shadow-on-hover:hover {
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.1);
+}
+
+/* About */
+#about .divider {
+  width: 60px;
+  height: 2px;
+  display: block;
+  background-color: #f58d17;
+}
+
+/* Intro text */
+.intro-text {
+  margin-bottom: 40px;
+  text-align: center;
+}
+.intro-text p {
+  max-width: 500px;
+  margin: 16px auto 0 auto;
+}
+
+/* Menu */
+#menu .nav-pills .nav-link {
+  background-color: white;
+  margin-left: 8px;
+  margin-right: 8px;
+  color: #222;
+  border-radius: 100px;
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.1);
+}
+#menu .nav-pills .nav-link.active {
+  background-color: #f58d17;
+  color: white;
+}
+#menu .menu-item .stars {
+  color: #f58d17;
+}/*# sourceMappingURL=style.css.map */
