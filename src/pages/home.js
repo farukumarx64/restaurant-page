@@ -19,7 +19,7 @@ let homeHTML = `
             <div class="row justify-content-center">
                 <div class="col-lg-8">
                     <h6 class="text-white">WELCOME TO QRISPY</h6>
-                    <h1 class="display-1 fw-bold text-white">Char-grilled and flavor-filled</h1>
+                    <h1 class="display-1 fw-bold text-white">Fresh & Tasy Food</h1>
                     <a href="#" class="btn btn-brand">Reservation</a>
                 </div>
             </div>
