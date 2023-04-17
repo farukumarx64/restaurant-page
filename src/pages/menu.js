@@ -88,7 +88,7 @@ let menuHTML = `
         <div class="row gy-4">
         <div class="col-lg-3 col-sm-6">
             <div class="menu-item bg-white shadow-on-hover">
-            <img src="../src/images/item_1.jpg" alt="" />
+            <img src="./images/item_1.jpg" alt="" />
             <div class="menu-item-content p-4">
                 <div>
                 <span class="stars">
@@ -112,7 +112,7 @@ let menuHTML = `
         </div>
         <div class="col-lg-3 col-sm-6">
             <div class="menu-item bg-white shadow-on-hover">
-            <img src="../src/images/item_2.jpg" alt="" />
+            <img src="./images/item_2.jpg" alt="" />
             <div class="menu-item-content p-4">
                 <div>
                 <span class="stars">
@@ -136,7 +136,7 @@ let menuHTML = `
         </div>
         <div class="col-lg-3 col-sm-6">
             <div class="menu-item bg-white shadow-on-hover">
-            <img src="../src/images/item_3.jpg" alt="" />
+            <img src="./images/item_3.jpg" alt="" />
             <div class="menu-item-content p-4">
                 <div>
                 <span class="stars">
@@ -160,7 +160,7 @@ let menuHTML = `
         </div>
         <div class="col-lg-3 col-sm-6">
             <div class="menu-item bg-white shadow-on-hover">
-            <img src="../src/images/item_4.jpg" alt="" />
+            <img src="./images/item_4.jpg" alt="" />
             <div class="menu-item-content p-4">
                 <div>
                 <span class="stars">
@@ -184,7 +184,7 @@ let menuHTML = `
         </div>
         <div class="col-lg-3 col-sm-6">
             <div class="menu-item bg-white shadow-on-hover">
-            <img src="../src/images/item_5.jpg" alt="" />
+            <img src="./images/item_5.jpg" alt="" />
             <div class="menu-item-content p-4">
                 <div>
                 <span class="stars">
@@ -208,7 +208,7 @@ let menuHTML = `
         </div>
         <div class="col-lg-3 col-sm-6">
             <div class="menu-item bg-white shadow-on-hover">
-            <img src="../src/images/item_6.jpg" alt="" />
+            <img src="./images/item_6.jpg" alt="" />
             <div class="menu-item-content p-4">
                 <div>
                 <span class="stars">
@@ -232,7 +232,7 @@ let menuHTML = `
         </div>
         <div class="col-lg-3 col-sm-6">
             <div class="menu-item bg-white shadow-on-hover">
-            <img src="../src/images/item_7.jpg" alt="" />
+            <img src="./images/item_7.jpg" alt="" />
             <div class="menu-item-content p-4">
                 <div>
                 <span class="stars">
@@ -256,7 +256,7 @@ let menuHTML = `
         </div>
         <div class="col-lg-3 col-sm-6">
             <div class="menu-item bg-white shadow-on-hover">
-            <img src="../src/images/item_8.jpg" alt="" />
+            <img src="./images/item_8.jpg" alt="" />
             <div class="menu-item-content p-4">
                 <div>
                 <span class="stars">
@@ -290,7 +290,7 @@ let menuHTML = `
         <div class="row gy-4">
         <div class="col-lg-3 col-sm-6">
             <div class="menu-item bg-white shadow-on-hover">
-            <img src="../src/images/item_2.jpg" alt="" />
+            <img src="./images/item_2.jpg" alt="" />
             <div class="menu-item-content p-4">
                 <div>
                 <span class="stars">
@@ -314,7 +314,7 @@ let menuHTML = `
         </div>
         <div class="col-lg-3 col-sm-6">
             <div class="menu-item bg-white shadow-on-hover">
-            <img src="../src/images/item_3.jpg" alt="" />
+            <img src="./images/item_3.jpg" alt="" />
             <div class="menu-item-content p-4">
                 <div>
                 <span class="stars">
@@ -338,7 +338,7 @@ let menuHTML = `
         </div>
         <div class="col-lg-3 col-sm-6">
             <div class="menu-item bg-white shadow-on-hover">
-            <img src="../src/images/item_4.jpg" alt="" />
+            <img src="./images/item_4.jpg" alt="" />
             <div class="menu-item-content p-4">
                 <div>
                 <span class="stars">
@@ -362,7 +362,7 @@ let menuHTML = `
         </div>
         <div class="col-lg-3 col-sm-6">
             <div class="menu-item bg-white shadow-on-hover">
-            <img src="../src/images/item_8.jpg" alt="" />
+            <img src="./images/item_8.jpg" alt="" />
             <div class="menu-item-content p-4">
                 <div>
                 <span class="stars">
@@ -396,7 +396,7 @@ let menuHTML = `
         <div class="row gy-4">
         <div class="col-lg-3 col-sm-6">
             <div class="menu-item bg-white shadow-on-hover">
-            <img src="../src/images/item_2.jpg" alt="" />
+            <img src="./images/item_2.jpg" alt="" />
             <div class="menu-item-content p-4">
                 <div>
                 <span class="stars">
@@ -420,7 +420,7 @@ let menuHTML = `
         </div>
         <div class="col-lg-3 col-sm-6">
             <div class="menu-item bg-white shadow-on-hover">
-            <img src="../src/images/item_3.jpg" alt="" />
+            <img src="./images/item_3.jpg" alt="" />
             <div class="menu-item-content p-4">
                 <div>
                 <span class="stars">
@@ -444,7 +444,7 @@ let menuHTML = `
         </div>
         <div class="col-lg-3 col-sm-6">
             <div class="menu-item bg-white shadow-on-hover">
-            <img src="../src/images/item_7.jpg" alt="" />
+            <img src="./images/item_7.jpg" alt="" />
             <div class="menu-item-content p-4">
                 <div>
                 <span class="stars">
@@ -468,7 +468,7 @@ let menuHTML = `
         </div>
         <div class="col-lg-3 col-sm-6">
             <div class="menu-item bg-white shadow-on-hover">
-            <img src="../src/images/item_8.jpg" alt="" />
+            <img src="./images/item_8.jpg" alt="" />
             <div class="menu-item-content p-4">
                 <div>
                 <span class="stars">
@@ -502,7 +502,7 @@ let menuHTML = `
         <div class="row gy-4">
         <div class="col-lg-3 col-sm-6">
             <div class="menu-item bg-white shadow-on-hover">
-            <img src="../src/images/item_5.jpg" alt="" />
+            <img src="./images/item_5.jpg" alt="" />
             <div class="menu-item-content p-4">
                 <div>
                 <span class="stars">
@@ -526,7 +526,7 @@ let menuHTML = `
         </div>
         <div class="col-lg-3 col-sm-6">
             <div class="menu-item bg-white shadow-on-hover">
-            <img src="../src/images/item_6.jpg" alt="" />
+            <img src="./images/item_6.jpg" alt="" />
             <div class="menu-item-content p-4">
                 <div>
                 <span class="stars">
@@ -550,7 +550,7 @@ let menuHTML = `
         </div>
         <div class="col-lg-3 col-sm-6">
             <div class="menu-item bg-white shadow-on-hover">
-            <img src="../src/images/item_7.jpg" alt="" />
+            <img src="./images/item_7.jpg" alt="" />
             <div class="menu-item-content p-4">
                 <div>
                 <span class="stars">
@@ -574,7 +574,7 @@ let menuHTML = `
         </div>
         <div class="col-lg-3 col-sm-6">
             <div class="menu-item bg-white shadow-on-hover">
-            <img src="../src/images/item_8.jpg" alt="" />
+            <img src="./images/item_8.jpg" alt="" />
             <div class="menu-item-content p-4">
                 <div>
                 <span class="stars">

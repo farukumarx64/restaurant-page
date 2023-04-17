@@ -2,7 +2,7 @@ let navBarHTML = `<!-- Navbar -->
 <nav class="navbar navbar-expand-lg bg-white shadow py-3 sticky-top">
 <div class="container">
     <a class="navbar-brand" href="#"
-    ><img src="../src/images/Qrispy_dark.svg" alt=""
+    ><img src="./images/Qrispy_dark.svg" alt=""
     /></a>
     <button
     class="navbar-toggler" 

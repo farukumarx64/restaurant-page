@@ -5,7 +5,7 @@ let aboutHTML = `
 <div class="container">
     <div class="row align-items-center gy-4">
     <div class="col-lg-5">
-        <img src="../src/images/about_new.png" alt="" />
+        <img src="./images/about_new.png" alt="" />
     </div>
     <div class="col-lg-5">
         <h1>Our Story</h1>
