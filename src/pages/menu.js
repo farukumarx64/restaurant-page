@@ -62,7 +62,7 @@ let menuHTML = `
         Lunch
         </button>
     </li>
-    <li class="nav-item" role="presentation">
+    <li class="nav-item mt-2" role="presentation">
         <button
         class="nav-link"
         id="pills-dinner-tab"
